@@ -1,2 +1,3 @@
 # Java-IVM
-INFIA VIRTUAL MACHINE
+Infia Virtual Machine
+ 
